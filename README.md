@@ -1,16 +1,12 @@
-# train_app
+## Trackwise Train ticket booking with tracking app
 
-A new Flutter project.
+### We mainly focus on creating this app to book tickets and track train locations now.
 
-## Getting Started
+Below are some of the programming languages we used
+- Dart
+- Node js
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These are the technologies we are used
+- WebSocket
+- Express
+- PayPal
